@@ -1,0 +1,1 @@
+This is Pawel's first ever git project! I hope i will know how to code in the near future :)
